@@ -1,6 +1,8 @@
 body {
 	background-color: black;
 	text-align: center;
+	font-family: Verdana;
+	margin: 20px;
 }
 
 
@@ -9,14 +11,15 @@ body {
 	font-size: 50px;
 	color: white;
 	align-content: center;
+	margin: 5px;
 }
 
-a{
+a {
 	color: aquamarine;
 	font-size: 16px;
 }
 
-h1 {
+h2 {
 	font-weight: 300;
 	font-size: 42px;
 	color: white;
@@ -24,7 +27,7 @@ h1 {
 }
 
 
-p{
+p {
 	font-size: 21px;
 	color: gray;
 }
@@ -32,5 +35,10 @@ p{
 footer {
 	text-align: right;
 	color: gray;
+	font-size: 22px;
 }
 
+
+div {
+	padding: 15px;
+}
